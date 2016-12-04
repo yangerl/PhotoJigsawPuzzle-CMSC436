@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PuzzleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_place_description">PlaceDescription</string>
+    <string name="completed">Puzzle has been completed!\nYou can still play this puzzle!</string>
+    <string name="incomplete">Puzzle has not been completed!\n
+        Solve this puzzle to help complete puzzles for all UMD Buildings!</string>
+</resources>
